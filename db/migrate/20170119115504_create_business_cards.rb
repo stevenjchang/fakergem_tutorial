@@ -1,3 +1,6 @@
+
+
+
 class CreateBusinessCards < ActiveRecord::Migration[5.0]
   def change
     create_table :business_cards do |t|

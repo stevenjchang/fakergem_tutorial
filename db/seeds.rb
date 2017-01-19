@@ -13,3 +13,19 @@
     phone: Faker::PhoneNumber.cell_phone
     }])
 end
+
+
+
+
+
+
+
+
+
+# 5.times do
+#   BusinessCard.create([{
+#     name: Faker::Name.name,
+#     address: Faker::Address.street_address,
+#     phone: Faker::PhoneNumber.cell_phone
+#     }])
+# end
